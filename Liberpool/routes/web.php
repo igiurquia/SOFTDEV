@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('login-reg\login');
 });
 
-Route::get('/home', function () {
-	return view('index\home');
+Route::get('/register', function () {
+	return view('login-reg\register');
 });
 
