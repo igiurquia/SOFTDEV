@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Liberpool</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -79,15 +79,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Liberpool
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://nyelllanillo.wixsite.com/liberpool">Home</a>
+                    <a href="https://nyelllanillo.wixsite.com/liberpool/book-now">Book Now</a>
+                    <a href="https://nyelllanillo.wixsite.com/liberpool/about-us">About Us</a>
+                    <a href="https://nyelllanillo.wixsite.com/liberpool/contact">Contact</a>
                 </div>
             </div>
         </div>
